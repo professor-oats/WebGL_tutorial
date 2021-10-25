@@ -1,4 +1,0 @@
-Make a WebGL demo on a website with a kind of ant society or something where
-I can add more ants into the scene and change how the structure looks and behaves.
-
-Can have it as an open project thing where I add more parts when I feel for.
